@@ -16,7 +16,7 @@ from database import db, save
 # Inicializa o cliente.
 client = Client(
     "bot",
-    bot_token=BOT_TOKEN,
+    bot_token=6630867529:AAFFqnaVNrhfmWhPIaEDyn0aUQ6qxFX9TLA,
     api_id=API_ID,
     api_hash=API_HASH,
     workers=WORKERS,
